@@ -17,7 +17,7 @@ public class TrabalhoLFA {
      */
     public static void main(String[] args) {
         System.out.println("oi joao");
-        
+        System.out.println("oi kanashiro");   
         
     }
     
